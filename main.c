@@ -30,7 +30,7 @@ typedef const struct {
 
 #ifdef LEADING_DELIMITER
 #undef LEADING_DELIMITER
-#define LEADING_DELIMITER 1
+#define LEADING_DELIMITER 0
 #else
 #define LEADING_DELIMITER 0
 #endif
